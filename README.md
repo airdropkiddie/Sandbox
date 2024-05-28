@@ -1,9 +1,6 @@
 # Sandbox
-
-15.05.2024 Day1: This is the first Test. 
-
-17.05.2024 Day2: Second Commit
-
-21.05.2024 Day3: Third Commit
-
-23.05.2024 Day4: Fourth Commit
+15.05.2024 Day1
+17.05.2024 Day2
+21.05.2024 Day3
+23.05.2024 Day4
+28.05.2024 Day5
